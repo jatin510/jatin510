@@ -1,4 +1,4 @@
-### Hi there, I'm [Jagdish !!](https://jatin510.netlify.app) 👋
+### Hi there, I'm [Jagdish !!](https://jatin510.dev) 👋
 
 
 <a href="https://www.linkedin.com/in/jagdish-parihar-799869165/">
