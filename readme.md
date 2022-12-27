@@ -1,5 +1,7 @@
 ### Hi there, I'm [Jagdish !!](https://jatin510.dev) 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin510" alt="jatin510" /> </p>
+
 
 <a href="https://www.linkedin.com/in/jagdish-parihar-799869165/">
   <img align="left" alt="Jagdish Parihar | LinkedIn" width="21px" src= "https://raw.githubusercontent.com/jatin510/jatin510/master/assets/linkedin.svg"/>
